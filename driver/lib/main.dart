@@ -1,5 +1,6 @@
-import 'package:boxing_images/boxing_images.dart';
+
 import 'package:flutter/material.dart';
+import 'package:tanch_boxing_images/tanch_boxing_images.dart';
 
 void main() {
   runApp(const MyApp());
@@ -32,7 +33,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Plugin example'),),
-      body: const BoxingImages(),
+      body: const BoxingImages()
     );
   }
 }

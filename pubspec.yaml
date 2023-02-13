@@ -1,6 +1,6 @@
 name: tanch_boxing_images
 description: A new Flutter widget for showing boxing images.
-version: 0.0.1
+version: 0.0.1-dev.1
 homepage: https://github.com/repolyo/tanch_boxing_images.git
 
 environment:

@@ -1,4 +1,4 @@
-library boxing_images;
+library tanch_boxing_images;
 
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/cupertino.dart';
